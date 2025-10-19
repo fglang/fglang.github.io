@@ -24,11 +24,19 @@
   },
   "work": [
     {
-      "name": "Institute of Biomedical Imaging",
+      "name": "Graz University of Technology, Institute of Biomedical Imaging",
       "position": "Assistant Professor",
       "url": "https://www.tugraz.at/institute/ibi/home",
       "startDate": "2025-09-01",
       "endDate": "",
+      "summary": ""
+    },
+    {
+      "name": "Max Planck Institute for Biological Cybernetics, Department of High-Field Magnetic Resonance",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.kyb.tuebingen.mpg.de/person/94864/2549",
+      "startDate": "2023-11-01",
+      "endDate": "2025-08-31",
       "summary": ""
     }
   ],
