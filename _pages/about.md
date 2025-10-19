@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at the <a href"https://www.tugraz.at/institute/ibi/home">Institute of Biomedical Imaging</a>, <a href="https://www.tugraz.at/home">Graz University of Technology</a>
+subtitle: Assistant Professor at the <a href="https://www.tugraz.at/institute/ibi/home">Institute of Biomedical Imaging</a>, <a href="https://www.tugraz.at/home">Graz University of Technology</a>
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: 167_small.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Institute of Biomedical Imaging</p>
