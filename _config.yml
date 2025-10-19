@@ -273,7 +273,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Glang]
-  first_name: [Felix.]
+  first_name: [Felix]
 
   style: apa
   locale: en
