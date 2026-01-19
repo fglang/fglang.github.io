@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello world!
+Research focus: MRI methods development
+- self-learning MRI
+- chemical exchange saturation transfer (CEST)
+- image reconstruction
+- ultra-high field methodology (pTx, RF coils, safety)
