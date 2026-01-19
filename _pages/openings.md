@@ -6,4 +6,4 @@ description:
 nav: true
 nav_order: 6
 ---
-## Openings
+[Download PDF](/assets/pdf/example_pdf.pdf)
