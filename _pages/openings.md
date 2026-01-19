@@ -6,4 +6,9 @@ description:
 nav: true
 nav_order: 6
 ---
-[Download PDF](/assets/pdf/example_pdf.pdf)
+## thesis projects
+Master's thesis: \
+[Model-Free Optimization of MRI Sequences for Brain Tissue Contrast](/assets/pdf/doublezero2_flyer.pdf)
+
+Bachelor's or Master's thesis: \
+[Derivative-Free Optimization of MRI Sequences](/assets/pdf/doublezero2_flyer.pdf)
